@@ -1,0 +1,8 @@
+This is a sample line for large.txt. No errors here.
+Error: This is an example of an error line.
+Another regular line with no issues.
+Yet another line to simulate a large file.
+Error: Critical error encountered in the system.
+Sample data to fill the file and simulate size.
+Error: Unexpected error occurred while processing the request.
+Continuing with regular lines for large file simulation.

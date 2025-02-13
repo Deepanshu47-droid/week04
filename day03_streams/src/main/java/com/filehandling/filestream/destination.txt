@@ -1,0 +1,4 @@
+hello, this is a sample file.
+it contains text in uppercase.
+convert this text to lowercase using java program.
+thank you!
