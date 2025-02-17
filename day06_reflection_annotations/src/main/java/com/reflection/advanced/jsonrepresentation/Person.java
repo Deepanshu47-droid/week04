@@ -1,0 +1,13 @@
+package com.reflection.advanced.jsonrepresentation;
+
+class Person {
+    private String name;
+    private int age;
+    private boolean active;
+
+    public Person(String name, int age, boolean active) {
+        this.name = name;
+        this.age = age;
+        this.active = active;
+    }
+}
